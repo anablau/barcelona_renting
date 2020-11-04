@@ -46,7 +46,9 @@ The purpose of this project is to explore and analyze the renting prices in Barc
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Jupyter Notebook](https://github.com/anablau/barcelona_renting/blob/main/.ipynb_checkpoints/Renting_Barcelona-checkpoint.ipynb)
+* [Conclusion Presentation](https://docs.google.com/presentation/d/1k9Uj8GvcxB5Nn8YKlNQQAdC5M5OgY1PkVyQtzi-Ur6Q/edit?usp=sharing)
 
 
 ## Contact
+
 * Feel free to contact me with any questions or if you are interested in contributing!
