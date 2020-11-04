@@ -24,12 +24,12 @@ The purpose of this project is to explore and analyze the renting prices in Barc
 
 
 ## Some questions being explored in this dataset are:
-              * How the average renting price per m2 is developing per year?
-              * How the average renting monthly price is developing per year?
-              * Which are the most expensive and cheapest neighborhoods?
-              * With the given features in this dataset, is it possible to develop a Machine Learning Model predicting the renting price?
+   * How the average renting price per m2 is developing per year?
+   * How the average renting monthly price is developing per year?
+   * Which are the most expensive and cheapest neighborhoods?
+   * With the given features in this dataset, is it possible to develop a Machine Learning Model predicting the renting price?
 
-              * Challengers: The current features do not have a strong correlation with the target variable (price) in order to build a high accurate prediction model.
+   * Challengers: The current features do not have a strong correlation with the target variable (price) in order to build a high accurate prediction model.
 
 
 ## Needs of this project
@@ -45,9 +45,7 @@ The purpose of this project is to explore and analyze the renting prices in Barc
 
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide Deck Title](link)
-
+* [Jupyter Notebook](https://github.com/anablau/barcelona_renting/blob/main/.ipynb_checkpoints/Renting_Barcelona-checkpoint.ipynb)
 
 
 ## Contact
