@@ -22,13 +22,14 @@ The purpose of this project is to explore and analyze the renting prices in Barc
 * Data Source: https://opendata-ajuntament.barcelona.cat/data/en/dataset/est-mercat-immobiliari-lloguer-mitja-mensual
 
 
-Markup : * Some questions being explored in this dataset are
+
+## Some questions being explored in this dataset are:
               * How the average renting price per m2 is developing per year?
               * How the average renting monthly price is developing per year?
               * Which are the most expensive and cheapest neighborhoods?
               * With the given features in this dataset, is it possible to develop a Machine Learning Model predicting the renting price?
 
-* Challengers: The current features do not have a strong correlation with the target variable (price) in order to build a high accurate prediction model.
+              * Challengers: The current features do not have a strong correlation with the target variable (price) in order to build a high accurate prediction model.
 
 
 ## Needs of this project
