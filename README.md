@@ -21,6 +21,7 @@ The purpose of this project is to explore and analyze the renting prices in Barc
 ## Project Description
 * Data Source: https://opendata-ajuntament.barcelona.cat/data/en/dataset/est-mercat-immobiliari-lloguer-mitja-mensual
 
+
 Markup : * Some questions being explored in this dataset are
               * How the average renting price per m2 is developing per year?
               * How the average renting monthly price is developing per year?
